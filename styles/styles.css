@@ -1,0 +1,18 @@
+header {
+  background-image: url('../images/pic_1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bg-b-header  {
+  background-color: #C271FF;
+}
+
+.text-learn {
+  color: #C271FF;
+}
